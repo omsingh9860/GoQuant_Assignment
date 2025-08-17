@@ -1,6 +1,5 @@
 📈 GoQuant Implied Volatility Forecasting Model
-Project by: [Your Name]
-Kaggle Username: [Your Kaggle Username]
+
 1. Project Overview
 This project presents a complete solution for the GoQuant Implied Volatility Prediction assignment. The objective is to forecast the 10-second-ahead implied volatility of ETH using high-frequency order book data.
 
